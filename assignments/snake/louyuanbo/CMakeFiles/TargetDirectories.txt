@@ -1,0 +1,3 @@
+/home/louyuanbo/桌面/louyuanbo/CMakeFiles/snake_game.dir
+/home/louyuanbo/桌面/louyuanbo/CMakeFiles/edit_cache.dir
+/home/louyuanbo/桌面/louyuanbo/CMakeFiles/rebuild_cache.dir
